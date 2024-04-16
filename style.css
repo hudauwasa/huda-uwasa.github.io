@@ -1,0 +1,19 @@
+h1 {
+    color: chocolate;
+}
+.esimerkki {
+    color: red  
+} 
+.esimerkki {
+    margin: 25px  
+} 
+h2 {
+    color: brown;
+}
+.esimerkki-box {
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+.jsharkkatyyli {
+    display:  none;
+}
